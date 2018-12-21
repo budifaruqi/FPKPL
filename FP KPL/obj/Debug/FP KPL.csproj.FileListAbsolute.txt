@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\FP KPL\FP KPL\bin\Debug\FP KPL.exe.config
+C:\Users\lenovo\source\repos\FP KPL\FP KPL\bin\Debug\FP KPL.exe
+C:\Users\lenovo\source\repos\FP KPL\FP KPL\bin\Debug\FP KPL.pdb
+C:\Users\lenovo\source\repos\FP KPL\FP KPL\obj\Debug\FP_KPL.Form1.resources
+C:\Users\lenovo\source\repos\FP KPL\FP KPL\obj\Debug\FP_KPL.Properties.Resources.resources
+C:\Users\lenovo\source\repos\FP KPL\FP KPL\obj\Debug\FP KPL.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\FP KPL\FP KPL\obj\Debug\FP KPL.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\FP KPL\FP KPL\obj\Debug\FP KPL.exe
+C:\Users\lenovo\source\repos\FP KPL\FP KPL\obj\Debug\FP KPL.pdb
+C:\Users\lenovo\source\repos\FP KPL\FP KPL\obj\Debug\FP KPL.csprojAssemblyReference.cache
